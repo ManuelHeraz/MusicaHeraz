@@ -150,4 +150,46 @@ let allMusic = [
         src: "Meltdown-Ash" //name here
     },
 
+    {
+        name: "The Beths",//music name
+        artist: "Knees Deep", // artist name
+        img:"Beths-Knees", // image name
+        src: "Beths-Knees" //name here
+    },
+
+    {
+        name: "Clairo",//music name
+        artist: "Pretty Girl", // artist name
+        img:"Clairo-PrettyGirl", // image name
+        src: "Clairo-PrettyGirl" //name here
+    },
+
+    {
+        name: "Love is a long road",//music name
+        artist: "Tom Petty", // artist name
+        img:"Tom-Love", // image name
+        src: "Tom-Love" //name here
+    },
+
+    {
+        name: "Sur la planche 2013",//music name
+        artist: "La Femme", // artist name
+        img:"Sur-LaFemme", // image name
+        src: "Sur-LaFemme" //name here
+    },
+
+    {
+        name: "Hoy Tengo Miedo",//music name
+        artist: "Fobia", // artist name
+        img:"Fobia-Hoy", // image name
+        src: "Fobia-Hoy" //name here
+    },
+
+    {
+        name: "Champion",//music name
+        artist: "Barns Courtney", // artist name
+        img:"Barns-Champion", // image name
+        src: "Barns-Champion" //name here
+    },
+
 ];
