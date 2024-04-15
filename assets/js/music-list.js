@@ -192,4 +192,173 @@ let allMusic = [
         src: "Barns-Champion" //name here
     },
 
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (1)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (2)", // image name
+        src: "C (2)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (3)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (4)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (5)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (6)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (7)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (8)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (9)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (10)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (11)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (12)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (13)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (14)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (15)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (16)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (17)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (18)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (19)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (20)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (21)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (22)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (23)" //name here
+    },
+
+    {
+        name: "Cancion Nombre - Pendiente",//music name
+        artist: "Autor - Pendiente", // artist name
+        img:"C (1)", // image name
+        src: "C (24)" //name here
+    },
+
+
 ];
